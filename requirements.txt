@@ -1,0 +1,2 @@
+Django~=2.2.4
+launchdarkly-server-sdk==6.13.1
